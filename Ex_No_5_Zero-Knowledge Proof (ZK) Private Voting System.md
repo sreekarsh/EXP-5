@@ -57,6 +57,15 @@ contract ZKVoting {
 
 ```
 # Expected Output:
+
+<img width="1448" height="938" alt="image" src="https://github.com/user-attachments/assets/8d0dbac4-7920-4527-812b-f68df86503d6" />
+
+<img width="1426" height="952" alt="image" src="https://github.com/user-attachments/assets/ee9c43f7-9e4b-4577-9be3-d3bc10443b92" />
+
+<img width="1428" height="948" alt="image" src="https://github.com/user-attachments/assets/08627f0c-7e04-40b5-b01d-c5729219327a" />
+
+
+
 Voters commit their votes privately.
 
 
@@ -77,3 +86,4 @@ Prevents vote tampering while maintaining voter privacy.
 Mimics real-world ZK voting applications in governance and DAOs.
 
 # RESULT: 
+Thus,the execution of Zk Private Voting System has executed Successfully.
